@@ -3,4 +3,6 @@ Ahora, después de haber realizado la clonación para tener
 un nuevo repositorio local, vamos a modificar el fichero inicio  en local
 y a continuación realizaremos un push para tener el repositorio de github 
 actualizado
-
+Volvemos a realizar una actualización del fichero inicio 
+para indicar que el comando git push origin master ha funcionado
+ 
